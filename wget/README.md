@@ -1,4 +1,6 @@
 ## Run wget experiment
+CVE: 2016-4971
+Ref: https://www.exploit-db.com/exploits/40064
 You can easily run this experiment by running 
 ```
 vagrant up
